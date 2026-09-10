@@ -1,8 +1,20 @@
-.git
-.gitignore
+# Secrets — never send to Docker build context
 .env
 run.ps1
-*.md
-src/
-!target/resume-ats-bot-1.0.0.jar
-fly.toml
+
+# Git metadata
+.git
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NOTE: src/ and pom.xml are intentionally NOT excluded
+# because the multi-stage Dockerfile needs them to build the JAR.
+# The target/ folder is excluded because the builder stage creates it fresh.
+target/
