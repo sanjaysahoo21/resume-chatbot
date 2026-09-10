@@ -1,0 +1,162 @@
+[
+  {
+    "skill": "kafka",
+    "title": "Apache Kafka for Beginners - Learn Apache Kafka for Beginners",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "Comprehensive beginner course covering Kafka fundamentals, producers, consumers, and topics.",
+    "url": "https://www.udemy.com/course/apache-kafka/"
+  },
+  {
+    "skill": "aws",
+    "title": "AWS Certified Cloud Practitioner - AWS Fundamentals",
+    "provider": "AWS Training",
+    "level": "Beginner",
+    "reason": "Official AWS training for foundational cloud and AWS service knowledge.",
+    "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/"
+  },
+  {
+    "skill": "microservices",
+    "title": "Microservices with Spring Boot and Spring Cloud",
+    "provider": "Udemy",
+    "level": "Intermediate",
+    "reason": "Hands-on course for building microservices with Spring Boot, Eureka, and API Gateway.",
+    "url": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/"
+  },
+  {
+    "skill": "docker",
+    "title": "Docker and Kubernetes: The Complete Guide",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "End-to-end guide covering Docker containers, images, and Kubernetes orchestration.",
+    "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/"
+  },
+  {
+    "skill": "kubernetes",
+    "title": "Kubernetes for the Absolute Beginners",
+    "provider": "KodeKloud",
+    "level": "Beginner",
+    "reason": "Beginner-friendly Kubernetes course with hands-on labs.",
+    "url": "https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on/"
+  },
+  {
+    "skill": "spring boot",
+    "title": "Spring Boot 3 & Spring Framework 6",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "Modern Spring Boot course covering REST APIs, JPA, and security.",
+    "url": "https://www.udemy.com/course/spring-hibernate-tutorial/"
+  },
+  {
+    "skill": "react",
+    "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "Comprehensive React.js course covering fundamentals through advanced patterns.",
+    "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+  },
+  {
+    "skill": "python",
+    "title": "Complete Python Bootcamp From Zero to Hero in Python",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "Complete Python programming course from fundamentals to advanced topics.",
+    "url": "https://www.udemy.com/course/complete-python-bootcamp/"
+  },
+  {
+    "skill": "machine learning",
+    "title": "Machine Learning A-Z: AI, Python & R + ChatGPT",
+    "provider": "Udemy",
+    "level": "Intermediate",
+    "reason": "Practical ML course covering supervised, unsupervised, and reinforcement learning.",
+    "url": "https://www.udemy.com/course/machinelearning/"
+  },
+  {
+    "skill": "sql",
+    "title": "The Complete SQL Bootcamp: Go from Zero to Hero",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "SQL fundamentals through advanced queries, joins, and database design.",
+    "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/"
+  },
+  {
+    "skill": "postgresql",
+    "title": "SQL and PostgreSQL: The Complete Developer's Guide",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "PostgreSQL-specific course covering queries, indexing, and performance.",
+    "url": "https://www.udemy.com/course/sql-and-postgresql/"
+  },
+  {
+    "skill": "redis",
+    "title": "Redis: The Complete Developer's Guide",
+    "provider": "Udemy",
+    "level": "Intermediate",
+    "reason": "Comprehensive Redis guide including caching, pub/sub, and data structures.",
+    "url": "https://www.udemy.com/course/redis-the-complete-developers-guide-p/"
+  },
+  {
+    "skill": "elasticsearch",
+    "title": "Elasticsearch 8 and the Elastic Stack: In Depth and Hands On",
+    "provider": "Udemy",
+    "level": "Intermediate",
+    "reason": "In-depth Elasticsearch course covering search, aggregations, and the ELK stack.",
+    "url": "https://www.udemy.com/course/elasticsearch-7-and-elastic-stack/"
+  },
+  {
+    "skill": "rest api",
+    "title": "REST API Design, Development & Management",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "REST API design principles, best practices, and hands-on development.",
+    "url": "https://www.udemy.com/course/rest-api/"
+  },
+  {
+    "skill": "graphql",
+    "title": "GraphQL with React: The Complete Developers Guide",
+    "provider": "Udemy",
+    "level": "Intermediate",
+    "reason": "Complete GraphQL course covering schemas, queries, mutations, and subscriptions.",
+    "url": "https://www.udemy.com/course/graphql-with-react-course/"
+  },
+  {
+    "skill": "git",
+    "title": "Git & GitHub Bootcamp",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "Covers Git fundamentals through advanced workflows including branching and collaboration.",
+    "url": "https://www.udemy.com/course/git-and-github-bootcamp/"
+  },
+  {
+    "skill": "ci/cd",
+    "title": "DevOps Projects | Real Time DevOps & CI/CD Projects",
+    "provider": "Udemy",
+    "level": "Intermediate",
+    "reason": "Hands-on CI/CD pipeline projects using Jenkins, GitHub Actions, and AWS.",
+    "url": "https://www.udemy.com/course/devops-projects-i/"
+  },
+  {
+    "skill": "jenkins",
+    "title": "Jenkins, From Zero To Hero: Become a DevOps Jenkins Master",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "Complete Jenkins guide from installation to advanced pipeline creation.",
+    "url": "https://www.udemy.com/course/jenkins-from-zero-to-hero/"
+  },
+  {
+    "skill": "java",
+    "title": "Java Programming Masterclass for Software Developers",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "Comprehensive Java course from basics to advanced OOP and Java 17+ features.",
+    "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+  },
+  {
+    "skill": "angular",
+    "title": "Angular - The Complete Guide (2024 Edition)",
+    "provider": "Udemy",
+    "level": "Beginner",
+    "reason": "Complete Angular course covering components, services, routing, and RxJS.",
+    "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+  }
+]

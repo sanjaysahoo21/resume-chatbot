@@ -1,0 +1,27 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: resume-ats-bot
+  jackson:
+    default-property-inclusion: non_null
+
+telegram:
+  bot-token: ${TELEGRAM_BOT_TOKEN:your-telegram-bot-token-here}
+  bot-username: ${TELEGRAM_BOT_USERNAME:ResumeATSBot}
+
+llm:
+  api-key: ${LLM_API_KEY:your-llm-api-key-here}
+  base-url: ${LLM_BASE_URL:https://api.groq.com/openai/v1}
+  model: ${LLM_MODEL:llama-3.3-70b-versatile}
+
+resume:
+  max-file-size-mb: 10
+
+logging:
+  level:
+    com.example.resumeats: DEBUG
+    org.telegram: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"

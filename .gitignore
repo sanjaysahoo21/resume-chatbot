@@ -1,0 +1,32 @@
+# Secrets — never commit real values
+.env
+*.env
+run.ps1
+
+# Maven
+target/
+*.class
+*.jar
+*.war
+!**/src/main/resources/*.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
